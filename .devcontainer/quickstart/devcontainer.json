@@ -22,7 +22,7 @@
         "README.md"
       ],
       "repositories": {
-        "<USERNAME>/<USERNAME>.github.io": {
+        "dbsghdlek/dbsghdlek.github.io": {
           "permissions": "write-all"
         }
       }
